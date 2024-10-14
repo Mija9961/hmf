@@ -1,1 +1,2 @@
-print("This is HMF")
+#This is HMF code
+print("Welcome to HMF")
